@@ -57,7 +57,7 @@ Kinematics concept has been the essential part of robots controlling. This repor
 
 [Jinhang Zhu](https://github.com/JinhangZhu)
 
-[Wengxing Peng](https://github.com/JinhangZhu)
+[Wengxing Peng](https://github.com/WenxingPeng)
 
 ## License
 
