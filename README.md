@@ -42,21 +42,6 @@ Kinematics concept has been the essential part of robots controlling. This repor
 
 ## Contributors
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/jinhangzhu/robotics-fundamentals/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=jinhangzhu/robotics-fundamentals" />
-</a>
-                <a target="_blank" href="https://github.com/WenxingPeng"><img width="50px" src="https://avatars1.githubusercontent.com/u/49303832?s=460&v=4"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-## Maintainers
-
 [Jinhang Zhu](https://github.com/JinhangZhu)
 
 [Wengxing Peng](https://github.com/WenxingPeng)
