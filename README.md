@@ -8,7 +8,6 @@
 - [Abstract](#abstract)
 - [Animations](#animations)
 - [Contributors](#contributors)
-- [Maintainers](#maintainers)
 - [License](#license)
 
 <!-- /TOC -->
